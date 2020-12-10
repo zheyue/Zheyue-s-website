@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/zheyue/zheyue.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-1. Spotify music analyze visualization[Spotiy anylize]:(https://github.com/zheyue/zheyue.GitHub.io/blob/main/6103_projec2_3.0.html)
+1. Spotify music analyze visualization: [Spotiy anylize](https://github.com/zheyue/zheyue.GitHub.io/blob/main/6103_projec2_3.0.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
